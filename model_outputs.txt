@@ -1,0 +1,10 @@
+GT: put down a resolution on the subject | Pred: 
+GT: and he is to be backed by Mr. Will | Pred: 
+GT: nominating any more Labour life Peers | Pred: 
+GT: M Ps tomorrow. Mr. Michael Foot has | Pred: 
+GT: Griffiths, M P for Manchester Exchange . | Pred: 
+GT: is to be made at a meeting of Labour | Pred: 
+GT: A MOVE to stop Mr. Gaitskell from | Pred: 
+GT: 0M P for Manchester Exchange . | Pred: 
+GT: A MOVE to stop Mr. Gaitskell from nominating | Pred: 
+GT: meeting of Labour 0M Ps tommorow . Mr. Michael | Pred: 
